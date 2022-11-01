@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sn0b4ll
+- 👀 I’m interested in everything regarding IT-Security
+- 📫 You can reach me via Twitter (@sn0b4ll) or Mastordon (sn0b4ll@muenchen.local)
